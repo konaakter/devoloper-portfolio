@@ -136,10 +136,12 @@ skill-des{
     text-align: center;
     font-size: 50px;
     font-weight: 700;
+    margin-top: 200px;
 }
 .resume-container{
     display: flex;
     gap: 24px;
+    margin-top: 250px;
 }
 .resume-iteam{
     margin-top: 30px;
@@ -167,3 +169,35 @@ skill-des{
     text-align: center;
     margin-top: 50px;
 }
+.contract{
+    display: flex;
+    gap: 100px;
+    margin: 130px;
+    background-color: #FFF8F3;
+    padding-left: 100px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-right: 200px;
+}
+.contract h3{
+    text-align: left;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 30px;
+
+}
+.contract input[type="text"],input[type="email"], textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+input{
+    height: 64px;
+}
+.prag {
+    margin-bottom: 30px;
+} 
+.contract a{
+    text-decoration: none;
+}  
