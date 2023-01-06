@@ -98,4 +98,34 @@ main{
     font-size: 20px;
     color: #474747;
 }
+.i-do{
+    margin: 130px;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+    margin-top: 220px;
+    text-align: center;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin: 20px;
+    text-align: center;
+}
+skill-des{
+    color: #757575;
+}
+.to{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px grey;
+    padding: 30px;
+    height: 300px;
+}
+.h{
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
 
+}
