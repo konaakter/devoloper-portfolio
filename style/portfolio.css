@@ -129,3 +129,41 @@ skill-des{
     text-align: center;
 
 }
+.resume{
+    margin: 130px;
+}
+.sume{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+}
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.resume-iteam{
+    margin-top: 30px;
+    margin: 30px;
+}
+.resume-iteam h4{
+    font-size: 25px;
+    font-weight: 700;
+    color: #474747;
+    margin-bottom: 10px;
+
+}
+.resume-iteam h5{
+    font-size: 20px;
+    font-weight: 600;
+    color: #757575;
+    margin-bottom: 20px;
+
+}
+.resume-iteam p{
+    color: #757575;
+
+}
+.btt{
+    text-align: center;
+    margin-top: 50px;
+}
